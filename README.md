@@ -1,4 +1,3 @@
-# Split-Phase
 # Introduction to the US Residential Split-Phase (120/240V) Power System
 
 ## 1. Overview
